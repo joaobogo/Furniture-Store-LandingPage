@@ -160,12 +160,14 @@ html {
 .main {
   padding-top: 4rem;
   background: rgba(245, 245, 245, 0.774);
+
   .mainText {
     padding: 1rem 1rem 3rem;
     color: var(--primaryColor);
     backdrop-filter: blur(2px);
     top: 10px;
     padding-top: 30px;
+    
 
     h1 {
       line-height: 40px;

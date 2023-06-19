@@ -203,6 +203,7 @@ html {
 .main {
   padding-top: 4rem;
   background: rgba(245, 245, 245, 0.774);
+ 
 }
 
 .main .mainText {
@@ -859,9 +860,7 @@ html {
     margin: auto;
     padding: 0 10rem;
   }
-  .main .mainText {
-    width: 40%;
-  }
+ 
   .main .mainText h1 {
     font-size: 50px;
     padding-bottom: 1.5rem;
